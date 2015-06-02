@@ -97,6 +97,17 @@ Example:
 Pack updated to Hardcore Ender Expansion 1.8.1 but the server isn't updated.
 You need to download Hardcore Ender Expansion 1.8.0 for Minecraft Forge 1.7.10 from their website.
 
+== SERVER INSTALLATION NOTES ==
+
+NOTICE:
+
+If you are installing this mod pack for a server, delete the following mod jars:
+
+- Optifine
+- Dynamic Lights
+
+Remember, you must edit your server properties to use Biomes O'Plenty (level-type: BIOMESOP).
+
 == CREDITS ==
 
 Ars Magica 2 - Mithion - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292222-ars-magica-2-version-1-4-0-008-updated-february-6
