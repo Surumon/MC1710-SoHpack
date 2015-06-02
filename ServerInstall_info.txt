@@ -1,0 +1,8 @@
+NOTICE:
+
+If you are installing this mod pack for a server, delete the following mod jars:
+
+- Optifine
+- Dynamic Lights
+
+Remember, you must edit your server properties to use Biomes O'Plenty (level-type: BIOMESOP).

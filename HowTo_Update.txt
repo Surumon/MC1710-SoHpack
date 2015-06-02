@@ -1,0 +1,31 @@
+---- UPDATING THE MOD PACK ----
+
+WARNING: REMEMBER TO ALWAYS DELETE THE OLD VERSIONS OF MODS.
+		OTHERWISE YOU WILL HAVE CONFLICTING ISSUES/CRASHES.
+		YOU HAVE BEEN WARNED!
+
+Client Side (Full Wipe):
+1) Ensure the server is running the newer version.
+2) WinXP: Start --> Run --> %appdata% // Win7: Type %appdata% into "Search programs and files"
+3) This is your roaming directory, go to where you told Forge to have it's MC Folder.
+	(If you followed my directions it's Roaming/.forge1710)
+4) Delete the directories mods and config
+5) Download the mods and config folders again.
+
+Client Side (Selective Update)
+1) Ensure the server is running the newer version.
+2) See changelog.txt and read the changes.
+3) Update the specific mods listed.
+4) Update the specific config files listed.
+
+Server Side Updates:
+Same as above, but I suggest you follow the Client Side (Selective Update)
+as this will allow you to update the key files with less hassle on upload times.
+
+"Help, I didn't ensure the server was running the new update."
+You'll have to hunt down the mods that got updated in the changelog.txt and
+download their last versions PRIOR to the ones listed in the update.
+
+Example:
+Pack updated to Hardcore Ender Expansion 1.8.1 but the server isn't updated.
+You need to download Hardcore Ender Expansion 1.8.0 for Minecraft Forge 1.7.10 from their website.
