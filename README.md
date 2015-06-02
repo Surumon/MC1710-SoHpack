@@ -37,12 +37,13 @@ Change ".minecraft" to ".forge1710"
 
 Check JVM Arguments.  Delete the entire line.
 Add -Xmx3G (Replace 3 with your desired GB of RAM to use).
-(I suggest a minimum of 3GB and if possible 6-8GB of RAM).
+(I suggest a minimum of 3GB and if possible 6-8GB of RAM; WARNING: DO NOT EXCEED YOUR AVAILABLE RAM
+	IF YOU DON'T KNOW WHAT THIS OPTION DOES, THEN DO NOT ENABLE IT - UNCHECK JVM ARGUMENTS).
 
 Save the profile.
 Start Minecraft.
 Forge loader will begin initial setup for mods, give it time.
-After Minecraft starts, exit Minecraft.
+After Minecraft starts and reaches the main menu, exit Minecraft.
 Forge setup complete, continue to installing mods.
 
 ---- INSTALLING THE MODS ----
@@ -50,8 +51,8 @@ Forge setup complete, continue to installing mods.
 Open your start menu or and insert "%appdata%"
 Look for the directory .forge1710
 Open .forge1710
-Copy the config and mods folders from where you downloaded to .forge1710
-Allow it to overwrite both the mods and config folderes.
+Copy the config and mods folders from where you downloaded to roaming/.forge1710/
+Allow it to overwrite both the mods and config folders.
 Mod installation complete, you now have everything needed.
 
 WARNING: 
@@ -90,7 +91,7 @@ Same as above, but I suggest you follow the Client Side (Selective Update)
 as this will allow you to update the key files with less hassle on upload times.
 
 "Help, I didn't ensure the server was running the new update."
-You'll have to hunt down the mods that got updated in the changelog.txt and
+You'll have to hunt down the mods that got updated in the changelog.md and
 download their last versions PRIOR to the ones listed in the update.
 
 Example:
