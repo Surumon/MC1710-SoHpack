@@ -1,18 +1,24 @@
-Version 0.15
-- TBD
+Version 0.16
+-TBD
 
-Version 0.14 6/2/2015
+Version 0.15 6/2/2015 [I]
+- Main edits for Github distribution.
+- Edited readme.md to better flow with Github distribution setup.
+- New format for changelog.md ([U] next to any update means an updated server version. [I] means internal change only, no update needed; these changes are usually just to readme or other non-required files).
+- No server update required for this version.
+
+Version 0.14 6/2/2015 [U]
 - Redid version numbering to better fit the longer development.
 - Added credits.txt; eventual listing of all the mods and their creators/websites.
 - Added readme1st.txt; General warning to public.
 
-Version 0.13 6/1/2015
+Version 0.13 6/1/2015 [U]
 - Removed Lovecraft Books due to server crash (Lostbooks+Bibliocraft compatibility).
 	(delete config/Lostbooks/unique/Lovecraft)
 - Updated Automagy to new version for missing compatibility.
 	(update mods/Automagy-1.7.10-0.24.1.jar)
 
-Version 0.12 6/1/2015
+Version 0.12 6/1/2015 [U]
 - Update changelog.txt to be more specific for updates on specific files.
 	(	Update means add/replace file [delete old versions]
 		Delete means remove file completely
@@ -27,7 +33,7 @@ Version 0.12 6/1/2015
 	(update config/LostBooks/unique/historyofantonica)
 - Added HowTo_Update.txt
 
-Version 0.11 5/30/2015
+Version 0.11 5/30/2015 [U]
 - Removed Minefactory Reloaded; Was conflicting/breaking farming.
 	(delete mods/MineFactoryReloaded-[1.7.10]2.8.0-104.jar)
 - Adjusted agricraft config; Disabled vanilla farming.
@@ -46,5 +52,5 @@ Version 0.11 5/30/2015
 - Fixed LostBooks not dropping the additional 250+ stories.
 	(clean config/Lostbooks/)
 
-Version 0.1 5/29/2015
+Version 0.1 5/29/2015 [U]
 - Initial Release
