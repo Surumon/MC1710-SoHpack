@@ -1,5 +1,5 @@
 <h1>Shadow Pack of Hope</h1>
-Custome modpack for use by gaming clan <i>Shadows of Hope</i>, this pack has not received permission from individual mod creators in the Minecraft community. We do not intend to redistribute or share this modpack with anyone outside of the <i>Shadows of Hope</i> community. We cannot be held responsible for any unwanted redistribution caused by the presence of this modpack on GitHub.
+Custom modpack for use by gaming clan <i>Shadows of Hope</i>, this pack has not received permission from individual mod creators in the Minecraft community. We do not intend to redistribute or share this modpack with anyone outside of the <i>Shadows of Hope</i> community. We cannot be held responsible for any unwanted redistribution caused by the presence of this modpack on GitHub.
 
 Otherwise, have fun!
 
@@ -86,7 +86,7 @@ Remember, you must edit your server properties to use Biomes O'Plenty (level-typ
 
 <h3>Client Side (Selective Update)</h3>
 1. Ensure the server is running the newer version.
-2. See changelog.txt and read the changes.
+2. See changelog.md and read the changes.
 3. Delete updated mods from the mods folder.
 4. Install the specific mods listed.
 5. Update the specific config files listed.
