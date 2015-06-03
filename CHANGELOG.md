@@ -1,5 +1,9 @@
-Version 0.16
--TBD
+Version 0.17
+- TBD
+
+Version 0.16 [U]
+- Changed config for Lycanites Mob dimensions to disable spawning in the Twilight Forest.
+	(update config/lycanitesmobs/lycanitemobs-mobevents.cfg)
 
 Version 0.15 6/2/2015 [I]
 - Main edits for Github distribution.
