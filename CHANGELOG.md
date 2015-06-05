@@ -1,7 +1,7 @@
 Version 0.18
 - TBD
 
-Version 0.17
+Version 0.17 [I]
 - Updated the Credits to include all mods A to B.  More to come.
 
 Version 0.16 [U]
