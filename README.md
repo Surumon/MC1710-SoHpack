@@ -98,21 +98,19 @@ Remember, you must edit your server properties to use Biomes O'Plenty (level-typ
 4. Start the server.
 
 <h2>CREDITS</h2>
-	<ul>
-	<li>Ars Magica 2 - Mithion - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292222-ars-magica-2-version-1-4-0-008-updated-february-6</li>
-	<li>Mine & Blade: BattleGear2 - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291267-mine-blade-battlegear-2-bullseye-1-0-8-0#BugsIssues</li>
-	<li>AgriCraft - InfinityRaider - http://forum.feed-the-beast.com/threads/1-7-10-agricraft.50964/</li>
-	<li>the AnimationAPI - thehippomaster21 - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289836-animationapi-animate-your-entities-v1-2-3</li>
-	<li>Antique Atlas - Hunternif - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324-antique-atlas</li>
-	<li>AppleCore - squeek502 - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger</li>
-	<li>Automagy - Tuhljin - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-v0-24-1-automation-and</li>
-	<li>Battle Towers - AtomicStryker - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1275201-atomicstrykers-battle-towers</li>
-	<li>Baubles - Azanor - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-1-1-0-updated-2015-3-2</li>
-	<li>Bibliocraft - Nuchaz - http://www.bibliocraftmod.com/ or https://github.com/Nuchaz/BiblioCraft</li>
-	<li>Binne's Mods - Binne - http://minecraft.curseforge.com/mc-mods/223525-binnies-mods</li>
-	<li>Biomes O' Plenty - Glitchfiend - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286162-biomes-o-plenty-over-75-new-biomes-plants-and-more</li>
-	<li>Botania - Vazkii - http://botaniamod.net/</li>
-	<li>BuildCraft - The Buildcraft Team - http://www.mod-buildcraft.com/</li>
-	</ul>
+	Ars Magica 2 - Mithion - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292222-ars-magica-2-version-1-4-0-008-updated-february-6
+	Mine & Blade: BattleGear2 - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291267-mine-blade-battlegear-2-bullseye-1-0-8-0#BugsIssues
+	AgriCraft - InfinityRaider - http://forum.feed-the-beast.com/threads/1-7-10-agricraft.50964/
+	the AnimationAPI - thehippomaster21 - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289836-animationapi-animate-your-entities-v1-2-3
+	Antique Atlas - Hunternif - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324-antique-atlas
+	AppleCore - squeek502 - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger
+	Automagy - Tuhljin - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-v0-24-1-automation-and
+	Battle Towers - AtomicStryker - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1275201-atomicstrykers-battle-towers
+	Baubles - Azanor - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-1-1-0-updated-2015-3-2
+	Bibliocraft - Nuchaz - http://www.bibliocraftmod.com/ or https://github.com/Nuchaz/BiblioCraft
+	Binne's Mods - Binne - http://minecraft.curseforge.com/mc-mods/223525-binnies-mods
+	Biomes O' Plenty - Glitchfiend - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286162-biomes-o-plenty-over-75-new-biomes-plants-and-more<
+	Botania - Vazkii - http://botaniamod.net/
+	BuildCraft - The Buildcraft Team - http://www.mod-buildcraft.com/
 
 Full credits to be finished at a later time/date.  It's a lot to do.
