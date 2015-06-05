@@ -1,8 +1,9 @@
 Version 0.18
 - TBD
 
-Version 0.17 [I]
+Version 0.17 [U]
 - Updated the Credits to include all mods A to B.  More to come.
+- Changed config for Lycanites Mob dimesions to disable spawning in the Candy dimensions.
 
 Version 0.16 [U]
 - Changed config for Lycanites Mob dimensions to disable spawning in the Twilight Forest.
