@@ -1,11 +1,23 @@
-Version 0.18
+Version 0.19
 - TBD
 
-Version 0.17 [U]
+Version 0.18 6/8/2015 [U]
+- Updated Automagy to new version, this version includes a crash fix on Automagy's end - Update highly recommended.
+	(update mods/Automagy-1.7.10-0.24.2.jar)
+- Added Spice of Life to mods and appropriate config file.
+	( update config/SpiceOfLife.cfg)
+	( update mods/SpiceOfLife-mc1.7.10-1.2.3.jar)
+	( Spice of Life is a mod that changes how regaining hunger works.
+		It is modified in this pack to only impact regaining Saturation.
+		Eat varied foods to increase Saturation gains per food.)
+- Fixed formatting for several EverQuest books.
+- Added 3 new EverQuest books, lifted straight from the database.  Enjoy!
+
+Version 0.17 [U] 6/3/2015
 - Updated the Credits to include all mods A to B.  More to come.
 - Changed config for Lycanites Mob dimesions to disable spawning in the Candy dimensions.
 
-Version 0.16 [U]
+Version 0.16 [U] 6/3/2015
 - Changed config for Lycanites Mob dimensions to disable spawning in the Twilight Forest.
 	(update config/lycanitesmobs/lycanitemobs-mobevents.cfg)
 
