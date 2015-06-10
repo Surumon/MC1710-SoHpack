@@ -1,5 +1,8 @@
-Version 0.19
+Version 0.20
 - TBD
+
+Version 0.19 [I] 6/10/2015
+- Added 15 new EverQuest books.  Yay books!
 
 Version 0.18 6/8/2015 [U]
 - Updated Automagy to new version, this version includes a crash fix on Automagy's end - Update highly recommended.
